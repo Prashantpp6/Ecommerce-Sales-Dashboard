@@ -15,7 +15,9 @@ To run this project, ensure you have **Microsoft Power BI** installed on your sy
 * DAX Query
 
 ## Dashboard
-![Ecommerce Sales Dashboard](https://github.com/Prashantpp6/Sales-Analysis-Dashboard-PowerBI-main/assets/Prashantpp6/ecommerce_dashboard.jpg)
+
+![Ecommerce Sales Dashboard](https://raw.githubusercontent.com/Prashantpp6/Ecommerce-Sales-Dashboard/master/ecommerce_dashboard.jpg.jpg)
+
 
 
 ## Dashboard Insights
