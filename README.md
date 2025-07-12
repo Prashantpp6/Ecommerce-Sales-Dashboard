@@ -63,5 +63,5 @@ This analysis highlights crucial business metrics and trends through an interact
 
 ---
 
-## 📂 Project Structure
+
 
